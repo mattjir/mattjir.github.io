@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+	font-family: "lucida sans unicode", "lucida grande", sans-serif
+}
+#slogan {
+	font-size: 20pt;
+	font-weight: 800;
+}
+h1 {
+	color: #008748;
+	text-align: right;
+	margin-bottom: 100px;
+}
+p {
+	color: #008748;
+}
+#logo {
+	float: left;
+}
+hr {
+	color: #008748;
+}
+ul {
+	color: #008748;
+	text-align: left;
+	font-weight: 800;
+}
+.fabimage {
+	width: 200px;
+	display: inline-block;
+	margin: 50px;
+}
+#imageblock {
+	background: #008748;
+}

@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:500);
+@import url(https://fonts.googleapis.com/css?family=Lusitana:400,700);
+body {
+	text-align: center;
+}
+#slogan {
+	font-size: 20pt;
+	font-weight: 800;
+	font-family: 'Ubuntu', sans-serif;
+}
+h1 {
+	color: #008748;
+	text-align: right;
+	margin-bottom: 100px;
+	font-family: 'Ubuntu', sans-serif;
+}
+p {
+	color: #008748;
+	font-family: 'Lusitana', serif;
+}
+#logo {
+	float: left;
+}
+hr {
+	color: #008748;
+}
+ul {
+	color: #008748;
+	text-align: left;
+	font-weight: 700;
+}
+.fabimage {
+	width: 200px;
+	display: inline-block;
+	margin: 50px;
+}
+#imageblock {
+	background: #008748;
+}

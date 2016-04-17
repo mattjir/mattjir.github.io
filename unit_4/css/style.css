@@ -3,11 +3,6 @@
 body {
 	text-align: center;
 }
-#slogan {
-	font-size: 20pt;
-	font-weight: 800;
-	font-family: 'Ubuntu', sans-serif;
-}
 h1 {
 	color: #008748;
 	text-align: right;
@@ -18,9 +13,6 @@ p {
 	color: #008748;
 	font-family: 'Lusitana', serif;
 }
-#logo {
-	float: left;
-}
 hr {
 	color: #008748;
 }
@@ -29,11 +21,19 @@ ul {
 	text-align: left;
 	font-weight: 700;
 }
+#logo {
+	float: left;
+}
+#imageblock {
+	background: #008748;
+}
+#slogan {
+	font-size: 20pt;
+	font-weight: 800;
+	font-family: 'Ubuntu', sans-serif;
+}
 .fabimage {
 	width: 200px;
 	display: inline-block;
 	margin: 50px;
-}
-#imageblock {
-	background: #008748;
 }

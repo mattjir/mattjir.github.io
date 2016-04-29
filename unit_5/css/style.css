@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:500);
+@import url(https://fonts.googleapis.com/css?family=Lusitana:400,700);
+body {
+	text-align: center;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	font-size: 16pt;
+	text-align: center;
+	font-weight: 800;
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+span {
+	padding: 1em;
+}
+h1 {
+	color: #008748;
+	text-align: right;
+	margin-bottom: 100px;
+	font-family: 'Ubuntu', sans-serif;
+}
+h3 {
+	color: #008748;
+	text-align: left;
+	font-family: 'Ubuntu', sans-serif;
+}
+p {
+	color: #008748;
+	font-family: 'Lusitana', serif;
+}
+hr {
+	color: #008748;
+}
+ul {
+	color: #008748;
+	text-align: left;
+	font-weight: 700;
+}
+#logo {
+	float: left;
+}
+#slogan {
+	font-size: 20pt;
+	font-weight: 800;
+	font-family: 'Ubuntu', sans-serif;
+}
